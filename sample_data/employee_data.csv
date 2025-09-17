@@ -1,0 +1,21 @@
+Employee_ID,Name,Department,Salary,Years_Experience,Performance_Score,Age,Education_Level,City,Bonus
+E001,John Smith,Engineering,85000,5,8.5,28,Master's,New York,8500
+E002,Sarah Johnson,Marketing,65000,3,7.2,26,Bachelor's,Los Angeles,6500
+E003,Michael Brown,Sales,70000,7,9.1,32,Bachelor's,Chicago,9100
+E004,Emily Davis,HR,60000,4,8.0,29,Master's,Houston,6000
+E005,David Wilson,Engineering,95000,8,8.8,35,PhD,Seattle,11400
+E006,Lisa Anderson,Finance,75000,6,7.8,31,Master's,Boston,7500
+E007,Robert Taylor,Marketing,68000,2,6.9,25,Bachelor's,San Francisco,5440
+E008,Jessica Garcia,Sales,72000,5,8.3,30,Bachelor's,Miami,7920
+E009,William Martinez,Engineering,88000,6,8.7,33,Master's,Denver,9680
+E010,Ashley Rodriguez,HR,62000,3,7.5,27,Bachelor's,Austin,5580
+E011,James Lee,Finance,78000,4,8.1,28,Master's,Portland,7020
+E012,Amanda Clark,Marketing,66000,1,6.5,24,Bachelor's,Phoenix,3960
+E013,Christopher Lewis,Sales,74000,8,9.0,36,Bachelor's,Philadelphia,8880
+E014,Stephanie Walker,Engineering,92000,7,8.9,34,Master's,San Diego,10120
+E015,Matthew Hall,HR,64000,5,7.9,30,Master's,Dallas,5760
+E016,Rachel Allen,Finance,76000,6,8.2,32,CPA,Atlanta,7600
+E017,Kevin Young,Marketing,67000,2,7.1,26,Bachelor's,Minneapolis,5360
+E018,Nicole King,Sales,71000,4,8.4,29,Bachelor's,Tampa,7100
+E019,Daniel Wright,Engineering,90000,9,9.2,37,PhD,Nashville,10800
+E020,Megan Lopez,HR,63000,3,7.6,28,Master's,Charlotte,5040

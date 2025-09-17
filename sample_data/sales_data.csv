@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Category,Price,Sales_Volume,Customer_Rating,Region,Launch_Date,Marketing_Spend,Revenue
+P001,Smartphone Alpha,Electronics,699.99,1250,4.2,North America,2023-01-15,50000,874987.50
+P002,Laptop Pro,Electronics,1299.99,800,4.5,Europe,2023-02-20,75000,1039992.00
+P003,Tablet Max,Electronics,499.99,950,4.1,Asia,2023-03-10,40000,474990.50
+P004,Smart Watch,Electronics,299.99,1800,4.3,North America,2023-04-05,60000,539982.00
+P005,Wireless Earbuds,Electronics,179.99,2200,4.0,Global,2023-05-12,35000,395978.00
+P006,Gaming Console,Electronics,499.99,750,4.7,Europe,2023-06-18,90000,374992.50
+P007,Coffee Maker Deluxe,Home & Kitchen,149.99,1100,4.4,North America,2023-07-22,25000,164989.00
+P008,Air Purifier Pro,Home & Kitchen,299.99,650,4.2,Asia,2023-08-14,30000,194993.50
+P009,Robot Vacuum,Home & Kitchen,399.99,900,4.6,Europe,2023-09-08,45000,359991.00
+P010,Standing Desk,Furniture,459.99,400,4.1,North America,2023-10-03,20000,183996.00
+P011,Ergonomic Chair,Furniture,299.99,600,4.3,Global,2023-11-15,35000,179994.00
+P012,Bookshelf Modern,Furniture,199.99,350,3.9,Europe,2023-12-01,15000,69996.50
+P013,Running Shoes Elite,Sports,129.99,1500,4.5,Global,2023-01-30,40000,194985.00
+P014,Yoga Mat Premium,Sports,79.99,800,4.2,North America,2023-03-25,20000,63992.00
+P015,Protein Powder,Health,49.99,2000,4.1,Global,2023-05-08,30000,99980.00
+P016,Vitamin Complex,Health,29.99,1200,3.8,North America,2023-06-12,25000,35988.00
+P017,Face Cream Luxury,Beauty,89.99,900,4.4,Europe,2023-07-05,35000,80991.00
+P018,Hair Dryer Pro,Beauty,199.99,700,4.0,Asia,2023-08-20,25000,139993.00
+P019,Organic Shampoo,Beauty,24.99,1800,4.2,Global,2023-09-15,20000,44982.00
+P020,LED Desk Lamp,Electronics,79.99,1000,4.1,North America,2023-10-28,15000,79990.00
