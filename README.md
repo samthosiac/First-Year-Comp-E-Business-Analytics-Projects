@@ -1,2 +1,2 @@
 # First-Year-Comp-E-Business-Analytics-Projects
-All about improving and getting the skills for my first internship.
+All about improving and getting the skills for opportunities
